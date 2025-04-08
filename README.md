@@ -1,4 +1,3 @@
-code README.md
 # 👋 About Me
 
 Hey, I’m a junior frontend developer! 👋  
